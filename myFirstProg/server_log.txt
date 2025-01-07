@@ -1,0 +1,90 @@
+Error: 'charmap' codec can't encode characters in position 6-10: character maps to <undefined>
+Task 'hjgjhgjhu' added successfully.
+Email sent successfully.
+File 'C:/Users/AHMED/Desktop/Mohamed/Screenshot 2024-12-11 042036.png' sent successfully.
+Task 'jhghjgfhfggf' added successfully.
+Email sent successfully.
+Task 'l;kollji' added successfully.
+Email sent successfully.
+Task 'swawawa' added successfully.
+Email sent successfully.
+Task 'szwawsesews' added successfully.
+Email sent successfully.
+Task 'dswewdsew' added successfully.
+Email sent successfully.
+Listed tasks.
+Email sent successfully.
+Task 'dswewdsew' deleted successfully.
+File 'C:/Users/AHMED/Desktop/Mohamed/Screenshot 2024-12-11 042036.png' sent successfully.
+Listed tasks.
+Task 'ahmed' added successfully.
+Email sent successfully.
+Task 'ahmed' added successfully.
+Email sent successfully.
+Task 'sayed' added successfully.
+Email sent successfully.
+Task 'shehab' added successfully.
+Email sent successfully.
+Task 'gafar' added successfully.
+Email sent successfully.
+Listed tasks.
+Email sent successfully.
+Task 'gafar' deleted successfully.
+Listed tasks.
+File 'C:/Users/AHMED/Desktop/Mohamed/Screenshot 2024-12-11 042036.png' sent successfully.
+Listed tasks.
+Task 'jkhhyjkgjyhg' added successfully.
+Email sent successfully.
+Task 'hjbhjyghjftdtr' added successfully.
+Email sent successfully.
+Email sent successfully.
+Task 'jkhhyjkgjyhg' deleted successfully.
+Task 'fffffff' added successfully.
+Email sent successfully.
+Task 'ggggg' added successfully.
+Email sent successfully.
+Task ';;;;;;;;;' added successfully.
+Email sent successfully.
+Email sent successfully.
+Task 'ggggg' deleted successfully.
+Task 'ahmned' added successfully.
+Email sent successfully.
+Task 'sayed' added successfully.
+Email sent successfully.
+Task 'faramaway' added successfully.
+Email sent successfully.
+Listed tasks.
+File 'C:/Users/AHMED/Desktop/Mohamed/Screenshot 2024-12-11 042036.png' sent successfully.
+Listed tasks.
+Email sent successfully.
+Task 'sayed' deleted successfully.
+Listed tasks.
+Task 'sayed' added successfully.
+Email sent successfully.
+Task 'suc' added successfully.
+Email sent successfully.
+Task 'ahm' added successfully.
+Email sent successfully.
+Listed tasks.
+Email sent successfully.
+Task 'sayed' deleted successfully.
+File 'C:/Users/AHMED/AppData/Local/GitHubDesktop/GitHubDesktop.exe' sent successfully.
+Listed tasks.
+Task 'jjbj' added successfully.
+Failed to send email: [Errno 11001] getaddrinfo failed
+Listed tasks.
+Task 'ddada' added successfully.
+Failed to send email: [Errno 11001] getaddrinfo failed
+Listed tasks.
+Failed to send email: [Errno 11001] getaddrinfo failed
+Task 'ddada' deleted successfully.
+Task 'bfbvb' added successfully.
+Failed to send email: [Errno 11001] getaddrinfo failed
+Task 'mmnvn' added successfully.
+Failed to send email: [Errno 11001] getaddrinfo failed
+Listed tasks.
+Listed tasks.
+Task 'fggfdgbff' added successfully.
+Email sent successfully.
+File 'C:/Users/AHMED/Desktop/Quantum-Parallelism.pdf' sent successfully.
+File 'C:/Users/AHMED/Desktop/Quantum-Parallelism.pdf' sent successfully.
