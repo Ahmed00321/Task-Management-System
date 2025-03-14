@@ -90,8 +90,8 @@ def send_email():
     response = send_request("list")
     tasks = response if "Tasks:" in response else "No tasks available."
 
-    sender_email = "emmoo77889@gmail.com"
-    sender_password = "rprf ncce rdql ruzr"
+    sender_email = "................."
+    sender_password = "................."
     recipient_email = simpledialog.askstring("Recipient Email", "Enter recipient's email:")
 
     if recipient_email:
@@ -115,8 +115,8 @@ def read_last_email():
     try:
         mail = imaplib.IMAP4_SSL("imap.gmail.com")
 
-        email = "emmm66778@gmail.com"
-        app_password = "csmu scdv ujpa zbco"
+        email = "..............."
+        app_password = "............."
         mail.login(email, app_password)
 
         mail.select("inbox")

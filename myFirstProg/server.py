@@ -26,9 +26,9 @@ def log_event(event):
 
 
 def send_email(subject, body):
-    sender_email = "emmoo77889@gmail.com"
-    sender_password = "rprf ncce rdql ruzr"
-    recipient_email = "emmm66778@gmail.com"
+    sender_email = "..............."
+    sender_password = "..............."
+    recipient_email = "..............."
 
     try:
         message = MIMEMultipart()
